@@ -125,7 +125,7 @@ The WST demonstrates superior performance across noise levels, maintaining const
 
 
 
-## 📖 Citation
+##  Citation
 
 If you use this code in your research, please cite our paper:
 
