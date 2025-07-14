@@ -45,7 +45,7 @@ python fisher_matrix_with_wst.py
 ├── notebooks/                        # Simulation data processing
 ├── results/                     # Output files and Fisher matrices
 
-
+```
 
 ## Methodology
 
@@ -87,7 +87,7 @@ wst_constraints = forecast_constraints(fisher_wst)
 ps_constraints = forecast_constraints(fisher_ps)
 
 print(f"WST improvement: {ps_constraints/wst_constraints}")
-
+```
 
 ##  Applications
 
@@ -136,7 +136,7 @@ If you use this code in your research, please cite our paper:
     journal={arXiv preprint arXiv:2310.06010},
     year={2024}
 }
-
+```
 
 Contact
 
